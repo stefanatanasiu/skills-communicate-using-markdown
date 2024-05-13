@@ -8,3 +8,6 @@ and just testing **bold** and _italic_
 ###### h6
 
 and let's escape an \#
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
